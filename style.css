@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  align-content: center;
+}
+
+img {
+  align-content: center;
+}
+
+figcaption{
+  font-size: 8px;
+}
+
+#featured-property{
+  width: 800px;
+}
+
+#details{
+  
+}
+
